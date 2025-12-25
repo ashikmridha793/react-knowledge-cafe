@@ -6,7 +6,7 @@
     "auhor_img": "https://cdn.britannica.com/83/136283-050-9C9D6ED8/Mark-Twain-1907.jpg?referrer=grok.com",
     "author": "Elon Musk",
     "posted_date": "2024-01-12",
-    "reading_time": "6 min read",
+    "reading_time": 6,
     "hashtage": ["#javascript", "#webdev", "#programming"]
   },
   {
@@ -16,7 +16,7 @@
     "auhor_img": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?referrer=grok.com",
     "author": "Alice Johnson",
     "posted_date": "2024-02-03",
-    "reading_time": "8 min read",
+    "reading_time": 8,
     "hashtage": ["#css", "#responsive", "#frontend"]
   },
   {
@@ -26,7 +26,7 @@
     "auhor_img": "https://byliner.com/wp-content/uploads/2019/09/Rowling.png?referrer=grok.com",
     "author": "Jane Doe",
     "posted_date": "2024-02-18",
-    "reading_time": "10 min read",
+    "reading_time": 10,
     "hashtage": ["#react", "#javascript", "#ui"]
   },
   {
@@ -36,7 +36,7 @@
     "auhor_img": "https://cdn.britannica.com/12/172012-050-DAA7CE6B/Jane-Austen-Cassandra-engraving-portrait-1810.jpg?referrer=grok.com",
     "author": "John Smith",
     "posted_date": "2024-03-01",
-    "reading_time": "7 min read",
+    "reading_time": 7,
     "hashtage": ["#nodejs", "#backend", "#api"]
   },
   {
@@ -46,7 +46,7 @@
     "auhor_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
     "author": "Emily Clark",
     "posted_date": "2024-03-10",
-    "reading_time": "5 min read",
+    "reading_time": 5,
     "hashtage": ["#cleancode", "#bestpractices", "#development"]
   }
 ]
